@@ -1,0 +1,12 @@
+service_has_an_unexpected_low_number_of	0
+service_has_a_normal_number_of	1
+service_has_an_excessively_high_number_of	2
+server_has_an_excessively_high_value_of	3
+server_has_an_unexpected_low_value_of	4
+server_has_a_normal_value_of	5
+service_has_an_excessively_high_value_of	6
+service_has_an_unexpected_low_value_of	7
+service_has_a_normal_value_of	8
+normally_calls	9
+abnormally_calls	10
+deploys_at	11
